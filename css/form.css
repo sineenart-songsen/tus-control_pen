@@ -1,0 +1,35 @@
+*{
+  text-align: center;
+  box-sizing: border-box;
+  background-color:whitesmoke;
+  margin: auto ;
+  padding: 0;
+}
+input[type=text] {
+  width: 40%;
+    padding: 12px 20px;
+  margin: 8px 0;
+  
+
+} 
+.login100-form-btn{
+  
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.col-25 {
+
+  width: 25%;
+  margin-top: 6px;
+}
+
+.col-75 {
+
+  width: 75%;
+  margin-top: 6px;
+}
